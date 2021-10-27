@@ -1,0 +1,7 @@
+关闭图形登录界面
+sudo systemctl set-default multi-user.target
+
+开启图形登录界面
+sudo systemctl set-default graphical.target
+
+
